@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f2882107303a41149c531ffcdc6fe8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coral1: {fileID: 21300000, guid: 3e465492297da4c7898ac7f634839440, type: 3}
+  - coral2: {fileID: 21300000, guid: fcc60fc952acc4b029b0a1a0ee45a451, type: 3}
+  - coral3: {fileID: 21300000, guid: 63967488fa21b4749b19e538a9dfe0b8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
